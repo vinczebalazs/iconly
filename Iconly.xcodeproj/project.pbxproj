@@ -88,9 +88,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B6DA167D20B1992000306890 /* Iconly */ = {
+		B6DA167D20B1992000306890 /* iconly */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B6DA168520B1992000306890 /* Build configuration list for PBXNativeTarget "Iconly" */;
+			buildConfigurationList = B6DA168520B1992000306890 /* Build configuration list for PBXNativeTarget "iconly" */;
 			buildPhases = (
 				B6DA167A20B1992000306890 /* Sources */,
 				B6DA167B20B1992000306890 /* Frameworks */,
@@ -100,7 +100,7 @@
 			);
 			dependencies = (
 			);
-			name = Iconly;
+			name = iconly;
 			productName = Iconly;
 			productReference = B6DA167E20B1992000306890 /* Iconly */;
 			productType = "com.apple.product-type.tool";
@@ -132,7 +132,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B6DA167D20B1992000306890 /* Iconly */,
+				B6DA167D20B1992000306890 /* iconly */,
 			);
 		};
 /* End PBXProject section */
@@ -299,7 +299,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B6DA168520B1992000306890 /* Build configuration list for PBXNativeTarget "Iconly" */ = {
+		B6DA168520B1992000306890 /* Build configuration list for PBXNativeTarget "iconly" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B6DA168620B1992000306890 /* Debug */,

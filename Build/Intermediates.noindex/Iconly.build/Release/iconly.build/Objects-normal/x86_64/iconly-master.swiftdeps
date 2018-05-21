@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "d7f5b3fc081a07a62c72cb9a44cfbc8c"
+build_time: [1526911813, 944745000]
+inputs:
+  "/Users/balazsvincze/Desktop/Projects/Iconly/src/IconSizes.swift": [9223372036, 854775807]
+  "/Users/balazsvincze/Desktop/Projects/Iconly/src/NSImage+Resize.swift": [9223372036, 854775807]
+  "/Users/balazsvincze/Desktop/Projects/Iconly/src/IconGenerator.swift": [9223372036, 854775807]
+  "/Users/balazsvincze/Desktop/Projects/Iconly/src/main.swift": [9223372036, 854775807]
+  "/Users/balazsvincze/Desktop/Projects/Iconly/src/InputHelper.swift": [9223372036, 854775807]
+  "/Users/balazsvincze/Desktop/Projects/Iconly/src/IconMode.swift": [9223372036, 854775807]

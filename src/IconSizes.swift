@@ -34,11 +34,11 @@ struct IconSizes {
     
     static let appIconSizes = ["1024@1x": NSSize(width: 1024, height: 1024),
                                "83.5@2x": NSSize(width: 167, height: 167),
-                               "76@2x": NSSize(width: 152, height: 152),
+                               "76@2x": NSSize(width: 152, height: 152),"76@1x": NSSize(width: 76, height: 76),
                                "60@3x": NSSize(width: 180, height: 180), "60@2x": NSSize(width: 120, height: 120),
-                               "40@3x": NSSize(width: 120, height: 120),"40@2x": NSSize(width: 80, height: 80),
-                               "29@3x": NSSize(width: 87, height: 87),"29@2x": NSSize(width: 58, height: 58),
-                               "20@3x": NSSize(width: 60, height: 60),"20@2x": NSSize(width: 40, height: 40),]
+                               "40@3x": NSSize(width: 120, height: 120),"40@2x": NSSize(width: 80, height: 80),"40@1x": NSSize(width: 40, height: 40),
+                               "29@3x": NSSize(width: 87, height: 87),"29@2x": NSSize(width: 58, height: 58),"29@1x": NSSize(width: 29, height: 29),
+                               "20@3x": NSSize(width: 60, height: 60),"20@2x": NSSize(width: 40, height: 40),"20@1x": NSSize(width: 20, height: 20)]
     
     static let navBarIconSizes = ["24@3x": NSSize(width: 72, height: 72), "24@2x": NSSize(width: 48, height: 48)]
 }
