@@ -1,4 +1,4 @@
-# 🏞 Iconly
+# 🏞 iconly
 Generate iOS icons in all sizes an app might ever need.
 
 ## Installation:
