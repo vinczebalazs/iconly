@@ -3,7 +3,7 @@ Generate iOS icons in all sizes an app might ever need.
 
 ## Installation:
 
-1. Download the `Iconly` executable and save it somewhere on your hard drive.
+1. Download the `iconly` executable and save it somewhere on your hard drive.
 2. Create a smylink to the binary.
 `sudo ln -s PATH_TO_ICONLY_EXECUTABLE /usr/local/bin`
 
